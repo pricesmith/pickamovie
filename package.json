@@ -3,5 +3,13 @@
   "dependencies": {
     "inquirer": "^9.2.11",
     "tau-prolog": "^0.3.4"
+  },
+  "name": "pickamovie",
+  "module": "index.ts",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
   }
 }
